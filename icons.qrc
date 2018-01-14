@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/credit_for_icons.txt</file>
+        <file>icons/next_icon.png</file>
+        <file>icons/pause_icon.png</file>
+        <file>icons/play_icon.png</file>
+        <file>icons/previous_icon.png</file>
+        <file>icons/stop_icon.png</file>
+        <file>icons/volume_icon.png</file>
+        <file>icons/mute_icon.png</file>
+        <file>icons/down_icon.png</file>
+        <file>icons/minus_icon.png</file>
+        <file>icons/plus_icon.png</file>
+        <file>icons/up_icon.png</file>
+    </qresource>
+</RCC>
